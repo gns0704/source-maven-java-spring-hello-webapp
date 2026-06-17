@@ -11,6 +11,6 @@
 <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd"/></h2>
 <h3>Version: 1.0</h3>
 <h1>good!!!!!!!!!!!!!!!!</h1>
-<h2 style='color:red'>Hihi!!!!.</h2>
+<h2 style='color:red'>안뇽안뇽!!!!.</h2>
 </body>
 </html>
